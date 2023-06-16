@@ -1,0 +1,110 @@
+{
+    "hash" : "0075ba4840827d3983cdd1fa0d0d9e2daad7d8dfc85ec8a706b005613fc31a2c",
+    "height" : 60,
+    "time" : 1679299537,
+    "txcount" : 3495,
+    "miner" : "1C5f1fqBJkCnny2Pnk5noCCrRLuHaJ7Px4Ahig"
+}
+{
+    "size" : 1717,
+    "bytes" : 15609734
+}
+{
+    "hash" : "004873a8a4b384456aa4e8ddf1cdc287d61d08f0f03247bb14a0ca9e30c59610",
+    "height" : 60,
+    "time" : 1679299539,
+    "txcount" : 4994,
+    "miner" : "1SvKQkueXTZxd6GKeu3WJYf9JwS3GJzAirefAU"
+}
+{
+    "size" : 2363,
+    "bytes" : 25287625
+}
+{
+    "hash" : "00fc58e4799aed3eadd7ad5af60063d155e71000c71604693d0d0ba785f6ae7f",
+    "height" : 61,
+    "time" : 1679299646,
+    "txcount" : 3136,
+    "miner" : "1C5f1fqBJkCnny2Pnk5noCCrRLuHaJ7Px4Ahig"
+}
+{
+    "size" : 3767,
+    "bytes" : 40312483
+}
+{
+    "hash" : "003e8608fb72479b077b2d357745cde1443f042ecc341539fe913c8abccc520b",
+    "height" : 62,
+    "time" : 1679299636,
+    "txcount" : 4848,
+    "miner" : "1SvKQkueXTZxd6GKeu3WJYf9JwS3GJzAirefAU"
+}
+{
+    "size" : 4052,
+    "bytes" : 43362442
+}
+{
+    "hash" : "00c560ebc5eb7757769af53da75f9f35f17f991e3151cdb9116f6fe44241d09e",
+    "height" : 63,
+    "time" : 1679299706,
+    "txcount" : 3136,
+    "miner" : "1FP8QyS8212yFzMN5Y8Ec9EYXLtSqhsYihZtTG"
+}
+{
+    "size" : 3070,
+    "bytes" : 32853570
+}
+{
+    "hash" : "00baf560b17090cba675da32676149a8e9d429888cde74e04017a0da57786ee7",
+    "height" : 64,
+    "time" : 1679299765,
+    "txcount" : 2034,
+    "miner" : "1C1gWveeUchpj2ZvDfm4A3Ybz1tBKE1Q79rXA4"
+}
+{
+    "size" : 2943,
+    "bytes" : 31494479
+}
+{
+    "hash" : "006a4cfc6a4397c6b07cfe52db856fa6be9dd701415ee544e079f566134a65f3",
+    "height" : 65,
+    "time" : 1679299797,
+    "txcount" : 3136,
+    "miner" : "1FP8QyS8212yFzMN5Y8Ec9EYXLtSqhsYihZtTG"
+}
+{
+    "size" : 3632,
+    "bytes" : 38867808
+}
+{
+    "hash" : "00403b93b3e21d35db61d0d51dd560a87e79dbfe49717db030d8f8aa9728e6d1",
+    "height" : 66,
+    "time" : 1679299823,
+    "txcount" : 2047,
+    "miner" : "1SvKQkueXTZxd6GKeu3WJYf9JwS3GJzAirefAU"
+}
+{
+    "size" : 2626,
+    "bytes" : 28102094
+}
+{
+    "hash" : "00a0d580ee38f5d979a48fb281fd3d20a5c21c256437189093f738765233ee3e",
+    "height" : 68,
+    "time" : 1679299891,
+    "txcount" : 2421,
+    "miner" : "1SvKQkueXTZxd6GKeu3WJYf9JwS3GJzAirefAU"
+}
+{
+    "size" : 0,
+    "bytes" : 0
+}
+{
+    "hash" : "002607061aa77284e4ac16a4a9a56ac97fee436af7220a50db99e959e2196fac",
+    "height" : 69,
+    "time" : 1679299918,
+    "txcount" : 40,
+    "miner" : "1FP8QyS8212yFzMN5Y8Ec9EYXLtSqhsYihZtTG"
+}
+{
+    "size" : 0,
+    "bytes" : 0
+}

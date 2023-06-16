@@ -1,0 +1,88 @@
+{
+    "hash" : "00e46124ac4cfed4c08017a6e62f219feb1a81710676963989bef732be80ffa1",
+    "height" : 144,
+    "time" : 1679374058,
+    "txcount" : 3143,
+    "miner" : "1TNEywTWXwGofksZ9DSdGn7UsXQq8TJnA3Bvtb"
+}
+{
+    "size" : 1315,
+    "bytes" : 4644610
+}
+{
+    "hash" : "0042d8fe9fa9a55407deb4e63e4ea736c09c0872be744994f9e5ba1b17b1b419",
+    "height" : 145,
+    "time" : 1679374086,
+    "txcount" : 3281,
+    "miner" : "1SvKQkueXTZxd6GKeu3WJYf9JwS3GJzAirefAU"
+}
+{
+    "size" : 104,
+    "bytes" : 754925
+}
+{
+    "hash" : "0014adea2bce48788a316794d2a23095399afc0ea209351717747dc573d7f632",
+    "height" : 146,
+    "time" : 1679374156,
+    "txcount" : 3136,
+    "miner" : "1TNEywTWXwGofksZ9DSdGn7UsXQq8TJnA3Bvtb"
+}
+{
+    "size" : 6319,
+    "bytes" : 36852926
+}
+{
+    "hash" : "00a76ba1079d724a626b69660da29b5e2a6eee52db10e61f77f18d56b4e89fc8",
+    "height" : 147,
+    "time" : 1679374187,
+    "txcount" : 1936,
+    "miner" : "1C1gWveeUchpj2ZvDfm4A3Ybz1tBKE1Q79rXA4"
+}
+{
+    "size" : 5926,
+    "bytes" : 28261479
+}
+{
+    "hash" : "0066e6f6d7b20bda550b46919266872dd55c32b8742f9aad48c7e8f7b772239e",
+    "height" : 148,
+    "time" : 1679374226,
+    "txcount" : 3863,
+    "miner" : "1TNEywTWXwGofksZ9DSdGn7UsXQq8TJnA3Bvtb"
+}
+{
+    "size" : 7368,
+    "bytes" : 39347065
+}
+{
+    "hash" : "0085407be5437b995c0fd59376afe5d05552a4613e3d4126a08d2eb36b553378",
+    "height" : 149,
+    "time" : 1679374305,
+    "txcount" : 1861,
+    "miner" : "1FP8QyS8212yFzMN5Y8Ec9EYXLtSqhsYihZtTG"
+}
+{
+    "size" : 7237,
+    "bytes" : 30108513
+}
+{
+    "hash" : "00bdca6ae923ee60b07daa5bf7eff6a3aee3eee84c173d4b8d7e65731bf24425",
+    "height" : 151,
+    "time" : 1679374393,
+    "txcount" : 5074,
+    "miner" : "1SvKQkueXTZxd6GKeu3WJYf9JwS3GJzAirefAU"
+}
+{
+    "size" : 3,
+    "bytes" : 32104
+}
+{
+    "hash" : "00e46f6aa33a1634399cbfe5b96d85d1e33dba0dd79e8edb872fa1f2865db92f",
+    "height" : 153,
+    "time" : 1679374481,
+    "txcount" : 260,
+    "miner" : "1SvKQkueXTZxd6GKeu3WJYf9JwS3GJzAirefAU"
+}
+{
+    "size" : 0,
+    "bytes" : 0
+}

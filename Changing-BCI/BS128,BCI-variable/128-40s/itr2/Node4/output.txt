@@ -1,0 +1,88 @@
+{
+    "hash" : "00c9ecde01f43bcd650e7754db29d41c49d7b231ce77d434aa81361c262731ff",
+    "height" : 74,
+    "time" : 1668674726,
+    "txcount" : 5612,
+    "miner" : "1Pm7sg2ZEWEVExwFbU58AGgNBZ2XAA6xRvynDH"
+}
+{
+    "size" : 103,
+    "bytes" : 145796
+}
+{
+    "hash" : "00f670e7fa9ec206e68ba988b395cbd1bd7e8aa6ff6c760194caaff4f86fb64d",
+    "height" : 75,
+    "time" : 1668674752,
+    "txcount" : 4780,
+    "miner" : "1JocQuEu9QU8fQnr6xjS7DRyibQRWFHHNnXKgU"
+}
+{
+    "size" : 13,
+    "bytes" : 18401
+}
+{
+    "hash" : "006179ebbfb8ed8fa5e12ec8ed2633aeb0069c2a0b034d06c8e26861f73b9dab",
+    "height" : 77,
+    "time" : 1668674886,
+    "txcount" : 232,
+    "miner" : "1DwjGbnKfAL8YT1WqU8vx9JdyW4J4ayt1bY1GL"
+}
+{
+    "size" : 2,
+    "bytes" : 2832
+}
+{
+    "hash" : "00a7fe8a691c5996698011d5c0d73301643e2e8c12e14b56a70932bd16d5ca16",
+    "height" : 77,
+    "time" : 1668674855,
+    "txcount" : 2260,
+    "miner" : "1EtaKTwfjjdNJF3A3k77pgsFMmgKVkncepHMLc"
+}
+{
+    "size" : 158,
+    "bytes" : 223645
+}
+{
+    "hash" : "0097ae098548e40e24db67149433bde945ee16926209c4083d9170e50b25833c",
+    "height" : 78,
+    "time" : 1668674924,
+    "txcount" : 12459,
+    "miner" : "1Pm7sg2ZEWEVExwFbU58AGgNBZ2XAA6xRvynDH"
+}
+{
+    "size" : 242,
+    "bytes" : 342559
+}
+{
+    "hash" : "007286f1b9ba9ad2ecf654c8e9e0d82696e0ec723b4fdbdd74b19c023643a32f",
+    "height" : 79,
+    "time" : 1668675027,
+    "txcount" : 5297,
+    "miner" : "12st4EHPr2H4MxGac7BCHJ5HAgzRyib8pEfwaY"
+}
+{
+    "size" : 0,
+    "bytes" : 0
+}
+{
+    "hash" : "00cb0b2ac30318056abc5d696fdfe1e2eabfd634e140efc4ef05d0363bddb701",
+    "height" : 80,
+    "time" : 1668675091,
+    "txcount" : 12880,
+    "miner" : "1Pm7sg2ZEWEVExwFbU58AGgNBZ2XAA6xRvynDH"
+}
+{
+    "size" : 0,
+    "bytes" : 0
+}
+{
+    "hash" : "003d6d450d977b1d84fa9125e8e2c785f68dff219877c68bec749b2ac4575b80",
+    "height" : 82,
+    "time" : 1668675189,
+    "txcount" : 1,
+    "miner" : "1Pm7sg2ZEWEVExwFbU58AGgNBZ2XAA6xRvynDH"
+}
+{
+    "size" : 0,
+    "bytes" : 0
+}

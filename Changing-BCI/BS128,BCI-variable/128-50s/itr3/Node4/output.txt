@@ -1,0 +1,88 @@
+{
+    "hash" : "005eb976b98727b0674ab56741ddf234921731df0810d0618cf126a70d925d4b",
+    "height" : 64,
+    "time" : 1669196030,
+    "txcount" : 8027,
+    "miner" : "1Y6pzMH9nnvHYAtnrgpPSZ3pYFsG7fKX915HPe"
+}
+{
+    "size" : 2942,
+    "bytes" : 3968072
+}
+{
+    "hash" : "007ef8f9499cba9e3c52f4edb98e4c5543fd415df4214fa5a475de0eedb3e21c",
+    "height" : 65,
+    "time" : 1669196100,
+    "txcount" : 9371,
+    "miner" : "1rSLP42PN3vxePUSSDFcaHJX54KLrV7K9PCQY"
+}
+{
+    "size" : 32,
+    "bytes" : 40668
+}
+{
+    "hash" : "00f833d8f6fe04a331a5363d71c38cdd615290d08c31dbd1abb73866ac3375e7",
+    "height" : 66,
+    "time" : 1669196147,
+    "txcount" : 6340,
+    "miner" : "1Y6pzMH9nnvHYAtnrgpPSZ3pYFsG7fKX915HPe"
+}
+{
+    "size" : 3497,
+    "bytes" : 4321372
+}
+{
+    "hash" : "00ec0ea5de4bb5dc2c9b21b3839cc0842fd09e2061a720865be3baf2edd9e509",
+    "height" : 67,
+    "time" : 1669196225,
+    "txcount" : 9883,
+    "miner" : "1rSLP42PN3vxePUSSDFcaHJX54KLrV7K9PCQY"
+}
+{
+    "size" : 184,
+    "bytes" : 230693
+}
+{
+    "hash" : "008175c30e69cd6d68fb1a0e2c44c5ae5ed6ef143209b6281a2dc3c3ccc97fa7",
+    "height" : 68,
+    "time" : 1669196272,
+    "txcount" : 5047,
+    "miner" : "1PG9JEmujVAnoEx3HYyWRZqqGP64CfWc2swqps"
+}
+{
+    "size" : 6160,
+    "bytes" : 7956619
+}
+{
+    "hash" : "00fefae271e3310bb2db9ccf758a937da8fe27ac718af805062eb1a9f58b0051",
+    "height" : 69,
+    "time" : 1669196344,
+    "txcount" : 7160,
+    "miner" : "1rSLP42PN3vxePUSSDFcaHJX54KLrV7K9PCQY"
+}
+{
+    "size" : 23,
+    "bytes" : 25948
+}
+{
+    "hash" : "0077cedf8675fafa17a925e6d6c469f7a598ada26b8b912e6da1fcb441dd081a",
+    "height" : 70,
+    "time" : 1669196428,
+    "txcount" : 313,
+    "miner" : "1PG9JEmujVAnoEx3HYyWRZqqGP64CfWc2swqps"
+}
+{
+    "size" : 6854,
+    "bytes" : 7968673
+}
+{
+    "hash" : "0021d4a1d8bba421c2cb2e4d9ab6ad8885af24578e29c44a481c3682cabea731",
+    "height" : 71,
+    "time" : 1669196492,
+    "txcount" : 6855,
+    "miner" : "1rSLP42PN3vxePUSSDFcaHJX54KLrV7K9PCQY"
+}
+{
+    "size" : 0,
+    "bytes" : 0
+}

@@ -1,0 +1,99 @@
+{
+    "hash" : "0078a7cb50406b3bf964cc89a3c648b775f66dea09d5839a69b1aefe0b471c82",
+    "height" : 77,
+    "time" : 1671529363,
+    "txcount" : 4082,
+    "miner" : "1Z6BEdwYbRQZAszCKVLa8JAeBqk52eLNxNMbHJ"
+}
+{
+    "size" : 1840,
+    "bytes" : 1615667
+}
+{
+    "hash" : "002b9bdc90ad427905b94f6171bb4df67c3183c09050cb3ef2afda88d858116f",
+    "height" : 78,
+    "time" : 1671529397,
+    "txcount" : 4246,
+    "miner" : "1RDqztTjQTFj8Ah4jsFFpwb7TMHH3ZpJ3fMk4k"
+}
+{
+    "size" : 2375,
+    "bytes" : 2214317
+}
+{
+    "hash" : "0026062cbf90ff6ebbcef482b5cfb6cced812e2292d39a284923b5979d785a85",
+    "height" : 79,
+    "time" : 1671529430,
+    "txcount" : 5442,
+    "miner" : "1Z6BEdwYbRQZAszCKVLa8JAeBqk52eLNxNMbHJ"
+}
+{
+    "size" : 1065,
+    "bytes" : 803549
+}
+{
+    "hash" : "00525c43eed1b87c3fc43e06891aa643b4b33d68677a0e98f11bf428875163d8",
+    "height" : 80,
+    "time" : 1671529453,
+    "txcount" : 1135,
+    "miner" : "1K92iUkpnZVrzXwFkFLZW1p1EZyrWBLNrJNanm"
+}
+{
+    "size" : 1073,
+    "bytes" : 809585
+}
+{
+    "hash" : "0073fd19f595d0576d4c70e09df2776ecea20108a95180f1abacea51224d959f",
+    "height" : 81,
+    "time" : 1671529487,
+    "txcount" : 7694,
+    "miner" : "1Z6BEdwYbRQZAszCKVLa8JAeBqk52eLNxNMbHJ"
+}
+{
+    "size" : 211,
+    "bytes" : 159194
+}
+{
+    "hash" : "00d9208a307164597fd7da03090fba4db845d18adad3dfbed853a7e758b308ab",
+    "height" : 82,
+    "time" : 1671529548,
+    "txcount" : 1027,
+    "miner" : "1K92iUkpnZVrzXwFkFLZW1p1EZyrWBLNrJNanm"
+}
+{
+    "size" : 369,
+    "bytes" : 278410
+}
+{
+    "hash" : "00b6522fab04a5cd72d49e7f531625bcab5ed9834168aa288ae9ca11346545c3",
+    "height" : 84,
+    "time" : 1671529626,
+    "txcount" : 76,
+    "miner" : "1GV8PJWGj5JhHBSX4KeWDC9MCJ9QEQTgh4mAcA"
+}
+{
+    "size" : 2,
+    "bytes" : 1508
+}
+{
+    "hash" : "00e07ddea5c285f86700ed59e28dc64ba0c89c928421e52ae236d9adee170c55",
+    "height" : 84,
+    "time" : 1671529621,
+    "txcount" : 87,
+    "miner" : "1RDqztTjQTFj8Ah4jsFFpwb7TMHH3ZpJ3fMk4k"
+}
+{
+    "size" : 82,
+    "bytes" : 61862
+}
+{
+    "hash" : "007887c80249e43f9692751374600c297b24c58e5bc62b4c39f89ff337e59ec1",
+    "height" : 85,
+    "time" : 1671529653,
+    "txcount" : 8496,
+    "miner" : "1Z6BEdwYbRQZAszCKVLa8JAeBqk52eLNxNMbHJ"
+}
+{
+    "size" : 0,
+    "bytes" : 0
+}

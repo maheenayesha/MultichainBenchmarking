@@ -1,0 +1,1 @@
+cd C:\Users\abc\Desktop && multichaind --datadir=D:\node demochain --deamon

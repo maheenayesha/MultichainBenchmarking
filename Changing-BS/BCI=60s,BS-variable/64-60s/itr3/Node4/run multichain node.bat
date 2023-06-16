@@ -1,0 +1,1 @@
+cd C:\Users\abc\Desktop && multichaind --datadir=D:\node demochain@192.168.10.24:7415 --deamon
