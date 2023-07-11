@@ -1,3 +1,0 @@
-Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
-Firs Test single user:FIr Creation Request,6390,48,3,34170,711.09,0.000%,19.55306,8.84,199.01,463.0
-TOTAL,6390,48,3,34170,711.09,0.000%,19.55306,8.84,199.01,463.0
