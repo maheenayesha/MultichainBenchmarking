@@ -1,0 +1,88 @@
+{
+    "hash" : "00ec54cc437b8a39cec33861c0f1da05394b4311a3f4bbb94e65573f3bca579e",
+    "height" : 447,
+    "time" : 1648113497,
+    "txcount" : 319,
+    "miner" : "1DAVUzovbYAu9LJpoff21ZnTWHjtTHxx4rtrD7"
+}
+{
+    "size" : 343,
+    "bytes" : 18059558
+}
+{
+    "hash" : "0023b5fc22f2ed6cbe9f994369c235bffdf7fed45f18563c9e15242e872da1e2",
+    "height" : 449,
+    "time" : 1648113673,
+    "txcount" : 317,
+    "miner" : "1DAVUzovbYAu9LJpoff21ZnTWHjtTHxx4rtrD7"
+}
+{
+    "size" : 5488,
+    "bytes" : 225686442
+}
+{
+    "hash" : "0043ca1322d8ed2acf0b43a321734db699f21db041bd02e44a3f5ea8f0fb2cbc",
+    "height" : 451,
+    "time" : 1648113944,
+    "txcount" : 330,
+    "miner" : "1DAVUzovbYAu9LJpoff21ZnTWHjtTHxx4rtrD7"
+}
+{
+    "size" : 7542,
+    "bytes" : 363780687
+}
+{
+    "hash" : "00ea29e03d8aedad0cb2ed69c7b92ece61cebdf5433b4677365026571d50473e",
+    "height" : 453,
+    "time" : 1648114245,
+    "txcount" : 308,
+    "miner" : "1DAVUzovbYAu9LJpoff21ZnTWHjtTHxx4rtrD7"
+}
+{
+    "size" : 11583,
+    "bytes" : 357972193
+}
+{
+    "hash" : "0034bce5182412df0e7c4a8e05187bff2edc0d63a9a2bb1306ed9d9e28197e89",
+    "height" : 455,
+    "time" : 1648114755,
+    "txcount" : 314,
+    "miner" : "1DAVUzovbYAu9LJpoff21ZnTWHjtTHxx4rtrD7"
+}
+{
+    "size" : 15388,
+    "bytes" : 596412008
+}
+{
+    "hash" : "00aea99111f650e30f45ba039772d4d4dc5c7af000586c8b75f7401ee425985c",
+    "height" : 457,
+    "time" : 1648115401,
+    "txcount" : 354,
+    "miner" : "1DAVUzovbYAu9LJpoff21ZnTWHjtTHxx4rtrD7"
+}
+{
+    "size" : 17221,
+    "bytes" : 587965263
+}
+{
+    "hash" : "00ba5ca62989240e9549e471591cf83fc99313377c8940f090dceb97db356d50",
+    "height" : 459,
+    "time" : 1648116302,
+    "txcount" : 324,
+    "miner" : "1DAVUzovbYAu9LJpoff21ZnTWHjtTHxx4rtrD7"
+}
+{
+    "size" : 29011,
+    "bytes" : 1068581463
+}
+{
+    "hash" : "00a36f3056455007d171582f3dcc99e0ef690a1c7a0f83ff0574d3a6d276e2d3",
+    "height" : 461,
+    "time" : 1648117295,
+    "txcount" : 331,
+    "miner" : "1DAVUzovbYAu9LJpoff21ZnTWHjtTHxx4rtrD7"
+}
+{
+    "size" : 24163,
+    "bytes" : 1139429163
+}

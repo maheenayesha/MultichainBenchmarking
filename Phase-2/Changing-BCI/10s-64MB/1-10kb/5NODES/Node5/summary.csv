@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+FIr Creation Request,6829,42,4,19858,565.49,0.000%,22.37036,9.61,123.88,440.0
+TOTAL,6829,42,4,19858,565.49,0.000%,22.37036,9.61,123.88,440.0
